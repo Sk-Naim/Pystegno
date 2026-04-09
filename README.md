@@ -2,8 +2,6 @@
 
 Pystegno is a lightweight web application that allows you to hide secret text messages inside image files without noticeably changing the image's appearance. It implements **Image Steganography** using the **Least Significant Bit (LSB)** technique. 
 
-A project developed as part of the VOIS CyberSecurity Internship.
-
 ---
 
 ## ✨ Features
