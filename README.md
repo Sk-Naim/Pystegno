@@ -1,12 +1,3 @@
----
-title: Pystegno
-emoji: 🖼️
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
----
-
 # Pystegno 🔐🖼️
 
 Pystegno is a lightweight web application that allows you to hide secret text messages inside image files without noticeably changing the image's appearance. It implements **Image Steganography** using the **Least Significant Bit (LSB)** technique. 
